@@ -20,7 +20,7 @@ This repository contains automated API tests written using [Playwright](https://
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/playwright-tests.git
+    git clone https://github.com/weragalap/playwright-tests.git
     cd playwright-tests
     ```
 
